@@ -12,6 +12,7 @@
             <h2>🦄 About Me</h2>
             <br>
             <p>I am a passionate developer interested in <b>Data Science</b> and <b>Machine Learning</b>. I love building projects that solve real-world problems.</p>
+            <p>I am a passionate <b>Backend Developer</b> specializing in the <b>Java Ecosystem</b>. I build secure, scalable microservices and robust enterprise applications.</p>
             <br>
             <h2>🔮 Projects</h2>
 
@@ -23,7 +24,9 @@
 | **[DSA](https://github.com/sujan58/DSA)** | Data Structures & Algorithms | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | 0 ⭐ |
             <br>
             <p>
-                💬 Ask me about <b>Python, Machine Learning, AI</b><br>
+                � I’m currently working on <b>Spring Boot Microservices</b><br>
+                🌱 I’m mastering <b>Spring Security & Cloud Architecture</b><br>
+                �💬 Ask me about <b>Java, API Design, System Architecture</b><br>
                 📫 Contact: <b>6385393883</b>
             </p>
             <br>
@@ -52,10 +55,12 @@
 
 <div align="center">
     <h2>🛠️ My Tech Stack</h2>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=8A2BE2">
-    <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white&color=9400D3">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=8A2BE2">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=9400D3">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=8A2BE2">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&color=9400D3">
+    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white&color=8A2BE2">
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&color=9400D3">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&color=8A2BE2">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=9400D3">
 </div>
 
 <br>
