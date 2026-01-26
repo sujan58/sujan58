@@ -13,9 +13,16 @@
             <br>
             <p>I am a passionate developer interested in <b>Data Science</b> and <b>Machine Learning</b>. I love building projects that solve real-world problems.</p>
             <br>
+            <h2>🔮 Projects</h2>
+
+| Project | Description | Stack | Stars |
+| :--- | :--- | :--- | :--- |
+| **[Chat_app](https://github.com/sujan58/Chat_app)** | Real-time chat application | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | 24 ⭐ |
+| **[waste_management_classification](https://github.com/sujan58/waste_management_classification)** | Waste classification using ML | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | 0 ⭐ |
+| **[Todo_app](https://github.com/sujan58/Todo_app)** | Task management application | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | 0 ⭐ |
+| **[DSA](https://github.com/sujan58/DSA)** | Data Structures & Algorithms | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | 0 ⭐ |
+            <br>
             <p>
-                🔭 I’m currently working on <b>Face Recognition</b> systems<br>
-                🌱 I’m currently learning <b>Advanced Deep Learning</b><br>
                 💬 Ask me about <b>Python, Machine Learning, AI</b><br>
                 📫 Contact: <b>6385393883</b>
             </p>
