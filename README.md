@@ -14,32 +14,17 @@
             <p>I am a passionate developer interested in <b>Data Science</b> and <b>Machine Learning</b>. I love building projects that solve real-world problems.</p>
             <p>I am a passionate <b>Backend Developer</b> specializing in the <b>Java Ecosystem</b>. I build secure, scalable microservices and robust enterprise applications.</p>
             <br>
-            <h2>🔮 Projects</h2>
-
-| Project | Description | Stack | Stars |
-| :--- | :--- | :--- | :--- |
-| **[Chat_app](https://github.com/sujan58/Chat_app)** | Real-time chat application | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | 24 ⭐ |
-| **[waste_management_classification](https://github.com/sujan58/waste_management_classification)** | Waste classification using ML | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | 0 ⭐ |
-| **[Todo_app](https://github.com/sujan58/Todo_app)** | Task management application | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | 0 ⭐ |
-| **[DSA](https://github.com/sujan58/DSA)** | Data Structures & Algorithms | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | 0 ⭐ |
-            <br>
             <p>
-                � I’m currently working on <b>Spring Boot Microservices</b><br>
+                🔭 I’m currently working on <b>Spring Boot Microservices</b><br>
                 🌱 I’m mastering <b>Spring Security & Cloud Architecture</b><br>
-                �💬 Ask me about <b>Java, API Design, System Architecture</b><br>
+                💬 Ask me about <b>Java, API Design, System Architecture</b><br>
                 📫 Contact: <b>6385393883</b>
             </p>
             <br>
             <div align="center">
-                <a href="https://linkedin.com/in/your-profile">
-                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8A2BE2" alt="LinkedIn">
-                </a>
-                <a href="https://github.com/sujan58">
-                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=9400D3" alt="GitHub">
-                </a>
-                <a href="mailto:your.email@example.com">
-                    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8A2BE2" alt="Email">
-                </a>
+                <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8A2BE2" alt="LinkedIn"></a>
+                <a href="https://github.com/sujan58"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=9400D3" alt="GitHub"></a>
+                <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8A2BE2" alt="Email"></a>
             </div>
         </td>
         <td valign="top" width="50%">
