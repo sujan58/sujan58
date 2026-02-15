@@ -77,11 +77,7 @@
 
 <div align="center">
     <h2>🐍 Contributions</h2>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sujan58/profile_repo/blob/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/sujan58/profile_repo/blob/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://github.com/sujan58/profile_repo/blob/output/github-contribution-grid-snake.svg">
-    </picture>
+    <img src="https://raw.githubusercontent.com/sujan58/profile_repo/output/github-contribution-grid-snake.svg" alt="snake animation">
 </div>
 
 <br>
